@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: #BCE9FF;
+    padding: 15px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-size: 75px;
+}
+
+header a{
+    border: 2px solid black;
+    color: black;
+    font-size: 25px;
+    padding: 2px 30px 2px 30px;
+    text-decoration: none;
+    margin-left: 20px;
+} 
+
+.left{
+    font-size: 20px;
+}
+
+.right{
+    font-size: 200px;
+}
